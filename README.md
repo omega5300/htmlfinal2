@@ -10,9 +10,9 @@ pantallias html5/xhtml5 trabajo final
 5. h1 a h6: encabenzados de la pagina
 6. a: etiqueta de enlace
 7. video: etiqueta de video
-8. table: tablas
-8-1. tr: define la fila de la tabla
-8-2. td: define la columna de la tabla
+8. table: etiqueta de tablas  
+8-1. tr: define la fila de la tabla  
+8-2. td: define la columna de la tabla  
 **--etiqutas de auto cierre cuyo uso es lo siguiente <> o </>**
 9. img: etiqueta de imagen
 10. source: define la fuente de video
