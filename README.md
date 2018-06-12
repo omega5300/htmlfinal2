@@ -2,7 +2,7 @@
 pantallias html5/xhtml5 trabajo final
 
 ## etiquetas basicas:
-**--etiquetas de apertura o cierre <> </>**
+**--etiquetas de apertura y cierre <> </>**
 1. html: etiqueta raiz
 2. head: etiqueta de encabezado
 3. body: etiqueta de cuerpo
